@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Karol Moroz. I am a Full Stack Developer based in Eastern Europe.
+In my everyday work, I write React.js with TypeScript, Elixir, and set up cloud infrastructure using Terraform.
+In my spare time, I work with other technologies, including Node.js, Next.js, Rust, Go, and Swift/SwiftUI.
+
+I enjoy learning new programming languages. I am currently trying to improve my Rust and I write back end servers
+in Go for my clients.
+
+You can find more about me on my website: [https://moroz.dev](https://moroz.dev).
+
 <!--
 **moroz/moroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
