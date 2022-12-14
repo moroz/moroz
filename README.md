@@ -7,7 +7,7 @@ In my spare time, I work with other technologies, including Node.js, Next.js, Ru
 I enjoy learning new programming languages. I am currently trying to improve my Rust and I write back end servers
 in Go for my clients.
 
-You can find more about me on my website: [https://moroz.dev](https://moroz.dev).
+You can find more about me on my website: <a href="https://moroz.dev" target="_blank" rel="noopener noreferrer">https://moroz.dev</a>.
 
 <!--
 **moroz/moroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
