@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋🌍
 
 My name is Karol Moroz. I am a Full Stack Developer based in Eastern Europe.
 In my everyday work, I write React.js with TypeScript, Elixir, and set up cloud infrastructure using Terraform.
