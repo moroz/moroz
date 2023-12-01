@@ -1,6 +1,6 @@
 ### Hello World 👋🌍
 
-My name is Karol Moroz. I am a Full Stack Developer based in Eastern Europe.
+My name is Karol Moroz. I am a Full Stack Developer based in Kaohsiung, Taiwan.
 In my everyday work, I write React.js with TypeScript, Elixir, and set up cloud infrastructure using Terraform.
 In my spare time, I work with other technologies, including Node.js, Next.js, Rust, Go, and Swift/SwiftUI.
 
